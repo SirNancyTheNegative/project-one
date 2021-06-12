@@ -17,3 +17,13 @@ A shared repository for first projects.
   - Get started by using Python's jupyter notebook to present the dataset.
   - The ERD is also added to clarify the relation among entities. 
   - Might use unsupervised learning models.
+  - Statistics would be shown such as charts.
+ 
+  - ERD: 
+   
+   ![Optional Text](Resources/ERD.PNG)
+ 
+ - Chart: 
+  
+    ![Optional Text](Resources/Chart.png)
+  
