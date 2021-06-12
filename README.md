@@ -1,2 +1,16 @@
 # project-one
 A shared repository for first projects.
+
+## Overview 
+
+- The project aims to analyze the relation and the effects between the international greenhouse gas emissions and global climate change. 
+
+## Analysis:
+
+- GitHub:
+  - Description of the communication protocols:
+
+- Machine Learning Model: 
+
+- Database:
+  - Using multiple csv files from different resources to answer the question. The first dataset shows the information of International Greenhouse Gas Emissions while the second one presents the Global climate change (earth surface temperatue).
