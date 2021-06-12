@@ -1,6 +1,8 @@
 # project-one
 A shared repository for first projects.
 
+- Overview: The project aims to analyze the relation and the effects between the international greenhouse gas emissions and global climate change. 
+
 - GitHub:
   - Description of the communication protocols:
 
