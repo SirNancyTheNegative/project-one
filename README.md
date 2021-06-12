@@ -3,7 +3,7 @@ A shared repository for first projects.
 
 ## Overview 
 
-- The project aims to analyze the relation and the effects between the international greenhouse gas emissions and global climate change. 
+- The project aims to analyze the relation and the effects between the international greenhouse gas emissions and global climate change and predict the trends of global temperature.
 
 ## Analysis:
 
