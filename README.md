@@ -22,7 +22,7 @@ A shared repository for first projects.
  
   - ERD: 
    
-     ![Optional Text](Resources/ERD.PNG)
+     ![Optional Text](Resources/ERD.png)
  
   - Chart: 
   
