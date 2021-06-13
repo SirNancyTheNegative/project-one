@@ -14,7 +14,8 @@ A shared repository for first projects.
   - Throughout this project, the group has been communicating via a group chat in Slack.
 
 - Machine Learning Model:
-
+  - The dataset is shown in jupyter notebook.
+  
 - Database:
   - Using multiple csv files from different sources, we hope to answer the question by trying to find a correlation between them. The first dataset shows the information of International Greenhouse Gas Emissions between 1990 and 2017, while the second one presents the Earth Surface Temperature from as early as 1743, spanning up to August of 2013.
 
