@@ -28,3 +28,4 @@ A shared repository for first projects.
   - Chart: 
   
      ![Optional Text](Resources/Chart.png)
+
