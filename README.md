@@ -40,3 +40,8 @@ A shared repository for first projects.
        - Tableu : for visualization and interaction
     - Interactive element:
        - User can interact with chart and mapping to show the location, temperature in exact month (map) in both land and ocean (chart). 
+    - About the dashboard: 
+       - The dashboard should have 4 sections: ERD Diagram, Global Temperature mapping and chart, Tableu. Each section should looks like the example shown in the following slides. Global temperature chart, tableu and mapping could be interacted. However, the ERD Diagram remains unchanged.   
+            
+
+            
