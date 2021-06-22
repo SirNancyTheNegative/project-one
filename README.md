@@ -28,7 +28,7 @@ A shared repository for first projects.
   - Chart: 
   
      ![Optional Text](Resources/Chart.png)
-  
+     
   - Dashboard
     
     - Google Slide: https://docs.google.com/presentation/d/1-Ytf0_jgAMNVzL9pkt7GMMhAFl3zb_KHhs7zXQtXqhs/edit#slide=id.p
