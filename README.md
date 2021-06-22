@@ -37,5 +37,6 @@ A shared repository for first projects.
        - Web browser: For visualization
        - Command-line interface: using GitBash
        - Github: Deploy final Data visualization
+       - Tableu : for visualization and interaction
     - Interactive element:
        - User can interact with chart and mapping to show the location, temperature in exact month (map) in both land and ocean (chart). 
