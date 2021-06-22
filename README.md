@@ -25,7 +25,19 @@ A shared repository for first projects.
    
      ![Optional Text](Resources/ERD.png)
  
-  - Chart: 
-  
-     ![Optional Text](Resources/Chart.png)
-  
+  - Dashboard
+    
+    - Google Slide: https://docs.google.com/presentation/d/1-Ytf0_jgAMNVzL9pkt7GMMhAFl3zb_KHhs7zXQtXqhs/edit#slide=id.p
+    - Description of tools used to create final dashboard
+       - VS Code: To edit HTML, Javascript, CSS files
+       - Web browser: For visualization
+       - Command-line interface: using GitBash
+       - Github: Deploy final Data visualization
+       - Tableu : for visualization and interaction
+    - Interactive element:
+       - Global temperature chart,greenhouse gas could be interacted.
+    - About the dashboard: 
+       - The dashboard should have 4 sections: ERD Diagram, Global Temperature chart, Greenhouse Gas chart. Each section should looks like the example shown in the following slides. However, the ERD Diagram remains unchanged.   
+            
+
+            
