@@ -29,3 +29,13 @@ A shared repository for first projects.
   
      ![Optional Text](Resources/Chart.png)
   
+  - Dashboard
+    
+    - Google Slide: https://docs.google.com/presentation/d/1-Ytf0_jgAMNVzL9pkt7GMMhAFl3zb_KHhs7zXQtXqhs/edit#slide=id.p
+    - Description of tools used to create final dashboard
+       - VS Code: To edit HTML, Javascript, CSS files
+       - Web browser: For visualization
+       - Command-line interface: using GitBash
+       - Github: Deploy final Data visualization
+    - Interactive element:
+       - User can interact with chart and mapping to show the location, temperature in exact month (map) in both land and ocean (chart). 
