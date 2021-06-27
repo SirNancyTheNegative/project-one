@@ -17,19 +17,19 @@ A shared repository for first projects.
   - In order to be able to work with the Machine Learning Model, we first need to ensure there's a clean, workable data set to work with. The two data sets we found did not work out well in that aspect -- The one we needed in a simple one-value format was in two dimensions, so to speak, and the one that would have worked better as a matrix of values was in a single-value format. In order to remedy this, df_Unpack.ipynb was formed. It consists of a number of functions to better help with getting the data into better, more workable forms, including ones to duplicate the entries for areas and years of the two-dimensional array in a way that would let each area-year pair be unique, as well as ones to move the data from a two-dimensional format to a one-dimensional one, and vice-versa.
   - As an example of how the data changed, here is how the temperatures looked when we pruned the entries without full information:
 
-!(Optional Text)[Resources/Images/Tempdata_Before.png]
+![Alt Text](https://raw.githubusercontent.com/SirNancyTheNegative/project-one/main/Resources/Images/Tempdata_Before.png)
 
   - And here's how they looked after reformatting them into a single-entry DataFrame:
 
-!(Optional Text)[Resources/Images/Tempdata_After.png]
+![Alt Text](https://raw.githubusercontent.com/SirNancyTheNegative/project-one/main/Resources/Images/Tempdata_After.png)
 
   - Greenhouse Gases table before reformatting:
 
-!(Optional Text)[Resources/Images/Gasdata_Before.png]
+![Alt Text](https://raw.githubusercontent.com/SirNancyTheNegative/project-one/main/Resources/Images/Gasdata_Before.png)
 
   - Greenhouse Gases table after reformatting:
 
-!(Optional Text)[Resources/Images/Gasdata_After.png]
+![Alt Text](https://raw.githubusercontent.com/SirNancyTheNegative/project-one/main/Resources/Images/Gasdata_After.png)
 
   - Originally for the Machine Learning Model itself, we considered an unsupervised learning model, but found that, the more we looked at how the data worked, the less reason there came to be for one to be used. So, instead, we decided on working with a confusion matrix. The greenhouse gases data had plenty of potential inputs for a large handful of countries between 1990 and 2014, and the temperature data had plenty of data between months, quarters, and years on how surface temperature changed between 1961 and 2019. On a year scale, this would work well enough for our preliminary confusion matrix, so we merged the data sets so that we would have a series of rows with the different greenhouse gas amounts for a given year and country, followed by the change in surface temperature for that same year and country. Since confusion matrices have discrete y vectors, however, we had to come up with a rule for the matrix to be made. For the time being, it was simple: If the yearly change in temperature was greater than 1 degree celsius, it would be labeled as a notable change in temperature with a 1. Otherwise, it wouldn't be notable, and it would be a 0. From there we could determine if there was any kind of correlation between an increase of a specific greenhouse gas and a notable increase in surface temperature.
   - For the time being, the testing and training sets for this are mostly randomly picked from the merged data set, with no specific ratio between them. This will likely change in the coming days as we further explore the data to try and test different combinations in the future.
