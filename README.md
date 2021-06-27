@@ -28,4 +28,8 @@ A shared repository for first projects.
   - Chart: 
   
      ![Optional Text](Resources/Chart.png)
+     
+  - ERD used for SQL tables
+
+     ![Optional Text](Resources/ERD2.png)
 
