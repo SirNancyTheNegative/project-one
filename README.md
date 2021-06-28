@@ -58,5 +58,3 @@ A shared repository for first projects.
     - About the dashboard: 
        - The dashboard should have 4 sections: ERD Diagram, Global Temperature chart, Greenhouse Gas chart. Each section should looks like the example shown in the following slides. However, the ERD Diagram remains unchanged.   
             
-
-            
