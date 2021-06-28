@@ -56,5 +56,5 @@ A shared repository for first projects.
     - Interactive element:
        - Global temperature chart,greenhouse gas could be interacted.
     - About the dashboard: 
-       - The dashboard should have 4 sections: ERD Diagram, Global Temperature chart, Greenhouse Gas chart. Each section should looks like the example shown in the following slides. However, the ERD Diagram remains unchanged.   
+       - The dashboard should have 4 sections: ERD Diagram, Global Temperature chart, Greenhouse Gas chart, and the Temperature map. Each section should looks like the example shown in the following slides.   
             
