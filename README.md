@@ -32,8 +32,8 @@ A shared repository for first projects.
   - Dashboard
     
     - Google Slide: https://docs.google.com/presentation/d/1-Ytf0_jgAMNVzL9pkt7GMMhAFl3zb_KHhs7zXQtXqhs/edit#slide=id.p
+    - Tableu preview: https://public.tableau.com/app/profile/thanh.mai.khoi.nguyen/viz/project-one_16250812609970/Dashboard1
     - Description of tools used to create final dashboard
-       - VS Code: To edit HTML, Javascript, CSS files
        - Web browser: For visualization
        - Command-line interface: using GitBash
        - Github: Deploy final Data visualization
