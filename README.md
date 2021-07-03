@@ -35,9 +35,9 @@ A shared repository for first projects.
        - Tableu : for visualization and interaction
     - Interactive element:
        - Global temperature chart,greenhouse gas could be interacted.
+    - Tableu Story: 
     - About the dashboard: 
-       - The dashboard should have 4 sections: ERD Diagram, Global Temperature chart, Greenhouse Gas chart. Each section should looks like the example shown in the following slides. However, the ERD Diagram remains unchanged.   
-    - Tableu Dashboard : https://public.tableau.com/app/profile/thanh.mai.khoi.nguyen/viz/project-one-story/Dashboard1
+       - Tableu Dashboard : https://public.tableau.com/app/profile/thanh.mai.khoi.nguyen/viz/project-one-story/Dashboard1
     
       ![Optional Text](Resources/dashboard1.PNG)
             
