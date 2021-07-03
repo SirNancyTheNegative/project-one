@@ -34,7 +34,7 @@ A shared repository for first projects.
        - Github: Deploy final Data visualization
        - Tableu : for visualization and interaction
     - Interactive element:
-       - Global temperature chart,greenhouse gas could be interacted.
+       - All of them could be interacted.
     - Tableu Story: 
     - About the dashboard: 
        - Tableu Dashboard : https://public.tableau.com/app/profile/thanh.mai.khoi.nguyen/viz/project-one-story/Dashboard1
