@@ -42,7 +42,7 @@ A shared repository for first projects.
  
   - ERD: 
    
-     ![Optional Text](Resources/ERD.png)
+     ![Optional Text](Resources/Images/ERD.png)
  
   - Dashboard
     
