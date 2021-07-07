@@ -51,7 +51,7 @@ A shared repository for first projects.
        - Web browser: For visualization
        - Command-line interface: using GitBash
        - Github: Deploy final Data visualization
-       - Tableu : for visualization and interaction
+       - Tableau : for visualization and interaction
     - Interactive element:
        - All of them could be interacted.
     - Tableau Story: 
