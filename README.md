@@ -54,9 +54,9 @@ A shared repository for first projects.
        - Tableu : for visualization and interaction
     - Interactive element:
        - All of them could be interacted.
-    - Tableu Story: 
+    - Tableau Story: 
     - About the dashboard: 
-       - Tableu Dashboard : https://public.tableau.com/app/profile/thanh.mai.khoi.nguyen/viz/project-one-story/Dashboard1
+       - Tableau Dashboard : https://public.tableau.com/app/profile/thanh.mai.khoi.nguyen/viz/project-one-story/Dashboard1
     
       ![Optional Text](Resources/dashboard1.PNG)
             
