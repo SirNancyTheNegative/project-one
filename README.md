@@ -48,16 +48,16 @@ A shared repository for first projects.
     
     - Google Slide: https://docs.google.com/presentation/d/1-Ytf0_jgAMNVzL9pkt7GMMhAFl3zb_KHhs7zXQtXqhs/edit#slide=id.p
     - Description of tools used to create final dashboard
-       - Web browser: For visualization
-       - Command-line interface: using GitBash
+       - Postgres SQL: create and manage database used for final visualization
+       - Python-Jupyter Notebook: data cleaning, create new and cleaned datasets to visualize
+       - GitBash: Command-line interface
        - Github: Deploy final Data visualization
        - Tableau : for visualization and interaction
     - Interactive element:
-       - All of them could be interacted.
-    - Tableau Story: 
+       - All of graphs, charts and maps within the dashboard could be interacted.
     - About the dashboard: 
        - Tableau Dashboard : https://public.tableau.com/app/profile/thanh.mai.khoi.nguyen/viz/project-one-story/Dashboard1
     
-      ![Optional Text](Resources/dashboard1.PNG)
+      ![Optional Text](Resources/Images/dashboard1.PNG)
             
 
