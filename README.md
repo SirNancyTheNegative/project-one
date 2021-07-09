@@ -58,6 +58,6 @@ A shared repository for first projects.
     - About the dashboard: 
        - Tableau Dashboard : https://public.tableau.com/app/profile/thanh.mai.khoi.nguyen/viz/project-one-story/Dashboard1
     
-      ![Optional Text](Resources/dashboard1.PNG)
+      ![Optional Text](Resources/Images/dashboard1.PNG)
             
 
