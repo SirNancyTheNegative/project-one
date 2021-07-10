@@ -41,7 +41,10 @@ A shared repository for first projects.
     
   - Here are the precision and recall values corresponding to each confusion matrix shown above:
 
-    ![Alt Text](Resources/Images/PRV_General.png) ![Alt Text](Resources/Images/PRV_BRF.png) ![Alt Text](Resources/Images/PRV_EEC.png)
+    ![Alt Text](Resources/Images/PRV_General.png)
+    
+    ![Alt Text](Resources/Images/PRV_BRF.png) 
+    ![Alt Text](Resources/Images/PRV_EEC.png)
     
 - Database:
   - Using multiple csv files from different sources, we hope to answer the question by trying to find a correlation between them. The first dataset shows the information of International Greenhouse Gas Emissions between 1990 and 2017, while the second one presents the Earth Surface Temperature from as early as 1743, spanning up to August of 2013.
